@@ -580,6 +580,9 @@ public class ReactVideoView extends ScalableVideoView implements
             videoControlHandler.post(new Runnable() {
                 @Override
                 public void run() {
+                    if (mMediaPlayer == null) {
+                        return;
+                    }
                     mediaController.setEnabled(true);
                     mediaController.show();
                 }
