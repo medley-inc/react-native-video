@@ -1,6 +1,6 @@
 ## このレポジトリについて
 
-このレポジトリは[MA-app](<https://github.com/medley-inc/MA-app) で使っている [react-native-video>](<https://github.com/react-native-video/react-native-video>) の動画再生周りの不具合修正を含んだforkです。
+このレポジトリは[MA-app](https://github.com/medley-inc/MA-app) で使っている [react-native-video](<https://github.com/react-native-video/react-native-video>) の動画再生周りの不具合修正を含んだforkです。
 一切の変更を行わないことを想定しています。もし、誤ってレポジトリへの変更を行なってしまった場合は[アカデミー開発チーム](https://medley-inc.slack.com/archives/C022GQ4GW31)への連絡をお願いします。
 
 ## react-native-video
