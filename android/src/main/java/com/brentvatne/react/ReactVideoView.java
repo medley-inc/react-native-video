@@ -580,6 +580,7 @@ public class ReactVideoView extends ScalableVideoView implements
             videoControlHandler.post(new Runnable() {
                 @Override
                 public void run() {
+                    // see: https://github.com/react-native-video/react-native-video/issues/1989#issuecomment-1175481741
                     if (mMediaPlayer == null) {
                         return;
                     }
